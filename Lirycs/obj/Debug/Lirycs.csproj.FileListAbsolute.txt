@@ -1,0 +1,61 @@
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.DisplayScreen.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.main.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Lirycs.exe.config
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Lirycs.exe
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Lirycs.pdb
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.exe
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.pdb
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Buffers.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Memory.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Text.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\bin\Debug\Refit.dll
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.HomeControl.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.SongResultControl.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.GhostControl.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.SecondScreen.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.Controls.LyricsControl.resources
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.LyricsResultControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Lirycs.exe.config
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Lirycs.exe
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Lirycs.pdb
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\Refit.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Buffers.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Memory.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Text.Json.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.Controls.LyricsControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.LyricsResultControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.DisplayScreen.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.GhostControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.Main.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.SecondScreen.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.SongResultControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.HomeControl.resources
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.exe
+C:\Users\Gabriel\source\repos\Lirycs v0.1.1 - Vagalume\Lirycs\obj\Debug\Lirycs.pdb
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Lirycs\Lirycs\obj\Debug\Lirycs.GeneratedMSBuildEditorConfig.editorconfig
